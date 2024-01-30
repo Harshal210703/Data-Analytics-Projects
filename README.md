@@ -12,7 +12,7 @@ Conducted in-depth data analytics on the global COVID-19 dataset, leveraging SQL
 
 #### Tools Used 
 <p align="left">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/ />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MicrosoftSQLServer"/ />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/ />
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/ />
 </p>
